@@ -1,0 +1,19 @@
+
+{
+    "name":"QX-Task-Gallery",
+    "description":"元初签到脚本合集",
+    "task":[
+        "0 9,10 * * * https://raw.githubusercontent.com/cc0606/YC-SIGN/main/Me_1.js, tag=1#, enabled=false",
+        "5 9,10 * * * https://raw.githubusercontent.com/cc0606/YC-SIGN/main/Me_3.js, tag=3#, enabled=false",
+        "10 9,10 * * * https://raw.githubusercontent.com/cc0606/YC-SIGN/main/Me_4.js, tag=4#, enabled=false",
+        "15 9,10 * * * https://raw.githubusercontent.com/cc0606/YC-SIGN/main/Me_5.js, tag=5#, enabled=false",
+        "20 9,10 * * * https://raw.githubusercontent.com/cc0606/YC-SIGN/main/Me_6.js, tag=6#, enabled=false",
+        "25 9,10 * * * https://raw.githubusercontent.com/cc0606/YC-SIGN/main/Me_7.js, tag=7#, enabled=false",
+        "30 9,10 * * * https://raw.githubusercontent.com/cc0606/YC-SIGN/main/Me_8.js, tag=8#, enabled=false",
+        "35 9,10 * * * https://raw.githubusercontent.com/cc0606/YC-SIGN/main/Me_9.js, tag=9#, enabled=false",
+        "35 9,10 * * * https://raw.githubusercontent.com/cc0606/YC-SIGN/main/Me_10.js, tag=10#, enabled=false",
+        "35 9,10 * * * https://raw.githubusercontent.com/cc0606/YC-SIGN/main/Me_11.js, tag=11#, enabled=false",
+        
+       
+    ]
+}
