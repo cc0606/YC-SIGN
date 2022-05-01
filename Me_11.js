@@ -28,6 +28,7 @@ const myRequest = {
 
 $task.fetch(myRequest).then(response => {
     console.log(response.statusCode + "\n\n" + response.body);
+    $notify("元初18658637058", "Subtitle", response.body); // Success!
     $done();
 }, reason => {
     console.log(reason.error);
