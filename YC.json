@@ -13,6 +13,15 @@
         "35 9,10 * * * https://raw.githubusercontent.com/cc0606/YC-SIGN/main/Me_9.js, tag=9#, enabled=false",
         "35 9,10 * * * https://raw.githubusercontent.com/cc0606/YC-SIGN/main/Me_10.js, tag=10#, enabled=false",
         "35 9,10 * * * https://raw.githubusercontent.com/cc0606/YC-SIGN/main/Me_11.js, tag=11#, enabled=false",
+        "36 9,10 * * * https://raw.githubusercontent.com/cc0606/YC-SIGN/main/lin01.js, tag=林仔1#, enabled=false",
+        "37 9,10 * * * https://raw.githubusercontent.com/cc0606/YC-SIGN/main/lin02.js, tag=林仔2#, enabled=false",
+        "38 9,10 * * * https://raw.githubusercontent.com/cc0606/YC-SIGN/main/lin03.js, tag=林仔3#, enabled=false",
+        "39 9,10 * * * https://raw.githubusercontent.com/cc0606/YC-SIGN/main/lin04.js, tag=林仔4#, enabled=false",
+        "40 9,10 * * * https://raw.githubusercontent.com/cc0606/YC-SIGN/main/lin05.js, tag=林仔5#, enabled=false",
+        "41 9,10 * * * https://raw.githubusercontent.com/cc0606/YC-SIGN/main/lin06.js, tag=林仔6#, enabled=false",
+        "42 9,10 * * * https://raw.githubusercontent.com/cc0606/YC-SIGN/main/dm01.js, tag=吊毛1#, enabled=false",
+        "43 9,10 * * * https://raw.githubusercontent.com/cc0606/YC-SIGN/main/dm02.js, tag=吊毛2#, enabled=false",
+
         
        
     ]
