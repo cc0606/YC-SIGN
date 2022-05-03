@@ -28,7 +28,7 @@ const myRequest = {
 
 $task.fetch(myRequest).then(response => {
     console.log(response.statusCode + "\n\n" + response.body);
-    $notify("林仔19925847164", "Subtitle", response.body); // Success!
+    $notify("林仔3", "19925847164", response.body); // Success!
     $done();
 }, reason => {
     console.log(reason.error);
