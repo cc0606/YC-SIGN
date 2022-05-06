@@ -21,6 +21,14 @@
         "41 9,10 * * * https://raw.githubusercontent.com/cc0606/YC-SIGN/main/lin06.js, tag=林仔6#, enabled=false",
         "42 9,10 * * * https://raw.githubusercontent.com/cc0606/YC-SIGN/main/dm01.js, tag=吊毛1#, enabled=false",
         "43 9,10 * * * https://raw.githubusercontent.com/cc0606/YC-SIGN/main/dm02.js, tag=吊毛2#, enabled=false",
+        "44 9,10 * * * https://raw.githubusercontent.com/cc0606/YC-SIGN/main/dm03.js, tag=吊毛3#, enabled=false",
+        "45 9,10 * * * https://raw.githubusercontent.com/cc0606/YC-SIGN/main/dm04.js, tag=吊毛4#, enabled=false",
+        "46 9,10 * * * https://raw.githubusercontent.com/cc0606/YC-SIGN/main/dm05.js, tag=吊毛5#, enabled=false",
+        "47 9,10 * * * https://raw.githubusercontent.com/cc0606/YC-SIGN/main/dm06.js, tag=吊毛6#, enabled=false",
+        "48 9,10 * * * https://raw.githubusercontent.com/cc0606/YC-SIGN/main/dm07.js, tag=吊毛7#, enabled=false",
+        "49 9,10 * * * https://raw.githubusercontent.com/cc0606/YC-SIGN/main/dm08.js, tag=吊毛8#, enabled=false",
+        "50 9,10 * * * https://raw.githubusercontent.com/cc0606/YC-SIGN/main/dm09.js, tag=吊毛9#, enabled=false",
+        "51 9,10 * * * https://raw.githubusercontent.com/cc0606/YC-SIGN/main/dm10.js, tag=吊毛10#, enabled=false",
 
         
        
