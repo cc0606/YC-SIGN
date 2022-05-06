@@ -29,6 +29,10 @@
         "49 9,10 * * * https://raw.githubusercontent.com/cc0606/YC-SIGN/main/dm08.js, tag=吊毛8#, enabled=false",
         "50 9,10 * * * https://raw.githubusercontent.com/cc0606/YC-SIGN/main/dm09.js, tag=吊毛9#, enabled=false",
         "51 9,10 * * * https://raw.githubusercontent.com/cc0606/YC-SIGN/main/dm10.js, tag=吊毛10#, enabled=false",
+        "52 9,10 * * * https://raw.githubusercontent.com/cc0606/YC-SIGN/main/dm11.js, tag=吊毛11#, enabled=false",
+        "53 9,10 * * * https://raw.githubusercontent.com/cc0606/YC-SIGN/main/dm12.js, tag=吊毛12#, enabled=false",
+        "54 9,10 * * * https://raw.githubusercontent.com/cc0606/YC-SIGN/main/dm13.js, tag=吊毛13#, enabled=false",
+        "55 9,10 * * * https://raw.githubusercontent.com/cc0606/YC-SIGN/main/dm14.js, tag=吊毛14#, enabled=false",
 
         
        
