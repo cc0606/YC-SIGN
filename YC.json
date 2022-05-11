@@ -46,7 +46,7 @@
         "40 9,21* * * https://raw.githubusercontent.com/cc0606/YC-SIGN/main/D011.js, tag=冻冻11#, enabled=false",
         "41 9,21* * * https://raw.githubusercontent.com/cc0606/YC-SIGN/main/D012.js, tag=冻冻12#, enabled=false",
 
-        
+ 
        
     ]
 }
