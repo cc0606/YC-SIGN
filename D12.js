@@ -1,0 +1,37 @@
+
+/**
+ * @fileoverview Template to compose HTTP reqeuest.
+ * 
+ */
+
+const url = `https://shop97476437.youzan.com/wscump/checkin/checkinV2.json?checkinId=1999740&kdt_id=97284269`;
+const method = `GET`;
+const headers = {
+'Cookie' : ` trace_sdk_context_pv_id=/wscuser/membercenter~eeb97b2b-06ba-44db-b3e6-0382b70617c2; yz_log_seqb=1652199761950; yz_log_seqn=21; _kdt_id_=97284269; KDTSESSIONID=YZ973741902571274240YZfLbxTlLc; nobody_sign=YZ973741902571274240YZfLbxTlLc; captcha_sid=YZ973742063866310656YZUrDrecak; dfp=de9176aa711811f1251b3a24e899a9bb; loc_dfp=34157e3b76d40d2bd8841dfc2b48c47f; yz_log_ftime=1652199761528; yz_log_uuid=d24686b0-473f-b1c2-8444-c4b830d50843`,
+'Accept' : `application/json, text/plain, */*`,
+'Connection' : `keep-alive`,
+'Referer' : `https://shop97476437.youzan.com/wscump/checkin/result?kdt_id=97284269`,
+'Accept-Encoding' : `gzip, deflate, br`,
+'Host' : `shop97476437.youzan.com`,
+'User-Agent' : `Mozilla/5.0 (iPhone; CPU iPhone OS 15_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 MicroMessenger/8.0.20(0x1800142f) NetType/WIFI Language/zh_CN`,
+'x-yz-action-id' : `wsc-h5-ump-0ae889d3-1651277541513-316802`,
+'Accept-Language' : `zh-CN,zh-Hans;q=0.9`
+};
+const body = ``;
+
+const myRequest = {
+    url: url,
+    method: method,
+    headers: headers,
+    body: body
+};
+
+$task.fetch(myRequest).then(response => {
+    console.log(response.statusCode + "\n\n" + response.body);
+    $notify("冻冻12", "19924384492", response.body); // Success!
+    $done();
+}, reason => {
+    console.log(reason.error);
+    $done();
+});
+
