@@ -45,6 +45,8 @@
         "39 8,20 * * * https://raw.githubusercontent.com/cc0606/YC-SIGN/main/D10.js, tag=冻冻10#, enabled=false",
         "40 8,20 * * * https://raw.githubusercontent.com/cc0606/YC-SIGN/main/D11.js, tag=冻冻11#, enabled=false",
         "41 8,20 * * * https://raw.githubusercontent.com/cc0606/YC-SIGN/main/D12.js, tag=冻冻12#, enabled=false",
+        "42 8,20 * * * https://raw.githubusercontent.com/cc0606/YC-SIGN/main/dm15.js, tag=吊毛15#, enabled=false",
+        "43 8,20 * * * https://raw.githubusercontent.com/cc0606/YC-SIGN/main/dm16.js, tag=吊毛16#, enabled=false",
 
  
        
