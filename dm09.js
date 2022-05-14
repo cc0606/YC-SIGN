@@ -7,7 +7,7 @@
 const url = `https://shop97476437.youzan.com/wscump/checkin/checkinV2.json?checkinId=1999740&kdt_id=97284269`;
 const method = `GET`;
 const headers = {
-'Cookie' : `trace_sdk_context_pv_id=/wscuser/membercenter~93f2aa0e-5b24-49d1-8870-40cc03af4547; yz_log_seqb=1651819656567; yz_log_seqn=48; _kdt_id_=97284269; KDTSESSIONID=YZ972147628866416640YZHffBcBq2; nobody_sign=YZ972147628866416640YZHffBcBq2; captcha_sid=YZ972147710343856128YZfAIYwp3n; dfp=d8f3aff21fd6c7a205ce6ffcb5bf5a7f; loc_dfp=b6d6a23e3e2b48613298839dae2ccbfc; yz_log_ftime=1651819656518; yz_log_uuid=4ad13f5e-cbf4-25aa-8fe4-db5a3d72b6d5`,
+'Cookie' : `trace_sdk_context_pv_id=/wscuser/membercenter~8291dedc-9122-4a29-b163-ed27464bc75c; yz_log_seqb=1652519012385; yz_log_seqn=38; _kdt_id_=97284269; KDTSESSIONID=YZ975080924771098625YZ4eqPajvi; nobody_sign=YZ975080924771098625YZ4eqPajvi; captcha_sid=YZ975080996363804672YZfsbeF6ms; dfp=e9a89f3d8ea01318902030510e198a5f; loc_dfp=b6d6a23e3e2b48613298839dae2ccbfc; yz_log_ftime=1652519012330; yz_log_uuid=77e2defb-9f09-bbe2-6aa8-d9d956175579`,
 'Accept' : `application/json, text/plain, */*`,
 'Connection' : `keep-alive`,
 'Referer' : `https://shop97476437.youzan.com/wscump/checkin/result?kdt_id=97284269`,
